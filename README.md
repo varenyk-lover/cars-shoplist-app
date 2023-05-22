@@ -1,3 +1,25 @@
+## Shopping list application
+
+Example of application for learning redux toolkit slices. You could add, search and delete cars from the list.
+
+
+## Features
+
+1. Enter the name and price of the car you want to add in the shopping list, tap enter or submit button to add it, and the information will display under the form. 
+2. If you enter letters of a car's name that are already existed in the list, names of such cars will become bold. 
+3. Enter the first letter of cars you want to search in the shopping list, and you will see the filtered list.
+4. Click on Delete button to delete cars from list. 
+5. The total price of all added cars will be calculated automatically and added under the list. When you search cars by name, you will see total price of only filtered cars.
+
+
+
+## Technologies and libraries
+
+- React
+- Redux Toolkit
+- Bulma
+- CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
